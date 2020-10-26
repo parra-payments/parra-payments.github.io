@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Parra Payments</title>
-    <link>/</link>
-    <description>Recent content on Parra Payments</description>
+    <title>Menús digitales online y pagos 100% contactless para bares, restaurantes, y hoteles.</title>
+    <link>https://parrapeyments.com/</link>
+    <description>Recent content on Menús digitales online y pagos 100% contactless para bares, restaurantes, y hoteles.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <copyright>Sitio creado con [Meghna Hugo](https://themes.gohugo.io/meghna-hugo/)</copyright>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Sitio creado con [Meghna Hugo](https://themes.gohugo.io/meghna-hugo/)</copyright><atom:link href="https://parrapeyments.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>/privacypolicy/</link>
+      <link>https://parrapeyments.com/privacypolicy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/privacypolicy/</guid>
+      <guid>https://parrapeyments.com/privacypolicy/</guid>
       <description>Términos y Condiciones Este contrato describe los términos y condiciones (los &amp;ldquo;Términos y Condiciones&amp;rdquo;) aplicables al uso de los servicios ofrecidos por ParraPayments S.</description>
     </item>
     

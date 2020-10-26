@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Parra Payments</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Parra Payments</description>
+    <title>Tags on Menús digitales online y pagos 100% contactless para bares, restaurantes, y hoteles.</title>
+    <link>https://parrapeyments.com/tags/</link>
+    <description>Recent content in Tags on Menús digitales online y pagos 100% contactless para bares, restaurantes, y hoteles.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <copyright>Sitio creado con [Meghna Hugo](https://themes.gohugo.io/meghna-hugo/)</copyright>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Sitio creado con [Meghna Hugo](https://themes.gohugo.io/meghna-hugo/)</copyright><atom:link href="https://parrapeyments.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
