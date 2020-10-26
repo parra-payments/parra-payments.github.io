@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://parrapeyments.com/privacypolicy/</loc>
+    <loc>/privacypolicy/</loc>
   </url>
   
   <url>
-    <loc>https://parrapeyments.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://parrapeyments.com/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://parrapeyments.com/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
